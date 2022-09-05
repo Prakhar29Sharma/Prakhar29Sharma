@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align = "center">Hii there! 👋 I am Prakhar Sharma</h1>
+
+💻 I'm a IT student
+
+🏫 I'm currently studying at Don Bosco Institute of Technology
+
+🔭 I’m currently working on JavaMiniProject
+
+🌱 Currently Learning Java
+
+
 
 <!--
 **Prakhar29Sharma/Prakhar29Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
