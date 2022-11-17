@@ -4,9 +4,9 @@
 
 🏫 I'm currently studying at Don Bosco Institute of Technology
 
-🔭 I’m currently working on JavaMiniProject
+🔭 I’m currently working on Cross Platform App Development
 
-🌱 Currently Learning Java
+🌱 Currently Learning Flutter + Firebase
 
 
 
