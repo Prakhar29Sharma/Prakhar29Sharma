@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <br>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar29Sharma&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar29Sharma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&show_icons=true&theme=transparent&bg_color=45,0C134F,0C134F,0C134F,5C469C&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&theme=transparent&bg_color=45,0C134F,0C134F,0C134F,5C469C&hide_border=true)<br/> --> <br/>
+
 
 
