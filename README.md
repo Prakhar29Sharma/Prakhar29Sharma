@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Prakhar29Sharma&icon=0&color=1)](https://visitcount.itsvg.in)
 
-💻 I'm a IT student<br><br>🏫 I'm currently studying at Don Bosco Institute of Technology<br><br>🔭 I’m currently working on Projects<br><br>🌱 Currently Learning Web Development
+💻 I'm a IT student<br><br>🏫 I'm currently studying at Don Bosco Institute of Technology<br><br>🔭 I’m currently working on Projects<br><br>🌱 Currently Learning Web Development<br><br>👯 I’m looking to collaborate on javascript and python
 
 <!--
 **Prakhar29Sharma/Prakhar29Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 <br>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&show_icons=true&theme=transparent&bg_color=45,0C134F,0C134F,0C134F,5C469C&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&theme=transparent&bg_color=45,0C134F,0C134F,0C134F,5C469C&hide_border=true)<br/> --> <br/>
-
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&show_icons=true&theme=transparent&bg_color=45,0C134F,0C134F,0C134F,5C469C&hide_border=true) -->
+![Prakhar29Sharma's Stats](https://github-readme-stats.vercel.app/api?username=Prakhar29Sharma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br />
+![Prakhar29Sharma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar29Sharma&theme=tokyonight&hide_border=true)
+<br />
+![Prakhar29Sharma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar29Sharma&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
